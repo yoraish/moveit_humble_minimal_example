@@ -5,7 +5,7 @@ Most if not all of the code in this repo is from the MoveIt!2 docs. This is an a
 
 I followed the following steps, and you may do so too:
 1. Install ROS Humble (see the ROS docs).
-2. Install MoveIt!2 binaries using `sudo apt install ros-humble-moveit`, as specified ![here]([here](https://moveit.ros.org/install-moveit2/binary/)https://moveit.ros.org/install-moveit2/binary).
+2. Install MoveIt!2 binaries using `sudo apt install ros-humble-moveit`, as specified [here]([here](https://moveit.ros.org/install-moveit2/binary/)https://moveit.ros.org/install-moveit2/binary).
 3. Create a new workspace, say call it `moveit2_ws`, a `src` directory within it, and set the files of this repository to live there.
 4. Build the workspace. From the `.../moveit2_ws` call `colcon build --mixin debug`.
 5. Source the workspace `source `moveit2_ws/install/setup.<your_shell>`.
