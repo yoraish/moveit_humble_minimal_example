@@ -1,5 +1,5 @@
 A minimal example for MoveIt!2 on ROS Humble. 
-This example comes a quickstart-example, complementing for the first C++ MoveIt!2 tutorial. Here, all we want is to move a Panda arm via C++ commands without building "code for the rest of MoveIt` :).
+This example comes a quickstart-example, complementing for the first C++ MoveIt!2 tutorial. Here, all we want is to move a Panda arm via C++ commands without building "code for the rest of MoveIt" :).
 
 Most if not all of the code in this repo is from the MoveIt!2 docs. This is an attempt to compile it compactly and nothing more.
 
